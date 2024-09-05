@@ -6,7 +6,7 @@ on:
   #  - cron: 0 19 * * *
 
 env:
-  REPO_URL: https://github.com/YunHair/LiBwrt.git
+  REPO_URL: https://github.com/YunHair/kwrt.git
   REPO_BRANCH: main
   CONFIG_FILE: configs/IPQ60XX-WIFI.config
   CONFIG_GENERAL_FILE: configs/GENERAL.config
